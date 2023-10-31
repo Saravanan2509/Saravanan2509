@@ -75,11 +75,3 @@ const TruncateString = (str,num) =>{
 }
 const TruncateData = TruncateString("Absolute victory",3);
 console.log(TruncateData);
-
-
-
-
-
-
-
-
